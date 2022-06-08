@@ -1,0 +1,3 @@
+Kako bi pokrenuli projekt potrebno je otvoriti 'Web Server for Chrome' putem web pregeldnika. Odabrati Launch app te stisnuti na
+choose folder. Zatim odabrati folder u kojem se nalazi projekt i otvoriti taj projekt putem web server linka. Potrebno je 
+otvoriti index.html datoteku.
